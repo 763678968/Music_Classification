@@ -106,5 +106,4 @@ def train_neural_network():
 
     # prediction = sess.run(output, feed_dict={X: test_x})
 
-
 train_neural_network()
