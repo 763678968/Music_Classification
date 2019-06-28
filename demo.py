@@ -75,7 +75,7 @@ def train_neural_network():
     output = neural_network()
 
     cost = tf.reduce_mean(
-        tf.reduce_sum(tf.nn.softmax_cross_entropy_with_logits_v2(labels=output, logits=Y)))
+        tf.reduce_sum(tf.nn.softmax_cross_entropy_with_logits_v2(labels=Y, logits=output)))
     lr = tf.Variable(0.001, dtype=tf.float32, trainable=False)
     opt = tf.train.AdamOptimizer(learning_rate=lr)
     var_list = [t for t in tf.trainable_variables()]
