@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/package-Tensorflow-redgreen.svg)  
     
 **比赛网址:**  
-
+https://cpipc.chinadegrees.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd
 
     
 **结语:**
