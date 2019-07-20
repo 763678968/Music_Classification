@@ -30,7 +30,7 @@ https://cpipc.chinadegrees.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd
 5、存储训练好的权重文件于本地，用于后期进行实时音频检测使用。  
 6、使用深度学习网络读取权重文件，并开启耳麦进行环境声音采集，实时进行音频的计算，直至分类形成，并输出。  
 
- ![image](https://github.com/TouchDreamRen/PersonalPage/raw/master/screenshots/screenshot.png)
+ ![image](https://github.com/763678968/Music_Classification/master/1f4a1e7f3bb708d7ef63de44b358920.png)
     
 **结语:**
     
